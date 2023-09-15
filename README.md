@@ -1,4 +1,4 @@
-# Just My Type
+<!--# Just My Type
 Covalence
 
 ## Info
@@ -12,7 +12,7 @@ Covalence
 * (ALREADY COMPLETE) Create two keyboards (include space bar):
 		* First keyboard, lowercase keys, numbers and special characters accessed without shift
 		* Second, keys accessed while holding down the shift key
-		* Exclude keys like tab, delete, shift, command, ctl, caps, option/alt & enter
+		* Exclude keys like tab, delete, shift, command, ctl, caps, option/alt & enter 
 * The lowercase keyboard should be the only one displayed when the page loads. Write code to hide the uppercase keyboard when the page loads.
 * Write jQuery code to set up keyboard toggling:
   * While the shift key is held down, hide the lowercase keyboard and show the uppercase one
@@ -37,7 +37,7 @@ let sentences = ['ten ate neite ate nee enet ite ate inet ent eate', 'Too ato to
         * For number of words, you can just count how many words make up the sentences you were given and hard code that value.
 * There should be a delay so the user can see the score. Then ask the user whether they would like to play again.
     * If confirmed yes, reset the game back to the start.
-    * If no, leave as is.
+    * If no, leave as is. -->
 
 ## Hints
 * To succeed in this exercise, you need to keep track of:
